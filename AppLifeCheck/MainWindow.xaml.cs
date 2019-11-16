@@ -26,6 +26,9 @@ namespace AppLifeCheck
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        
+
         DispatcherTimer UpdateTimer = new DispatcherTimer();
         public MainWindow()
         {
